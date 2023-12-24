@@ -1,2 +1,2 @@
 # Java-Programs
-Java solved codes
+Java solved codes ,techniques
